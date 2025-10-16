@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="45" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+    <!-- Olhos do Panda -->
+    <circle cx="35" cy="40" r="10" fill="#2c3e50"/>
+    <circle cx="65" cy="40" r="10" fill="#2c3e50"/>
+    <circle cx="35" cy="38" r="2" fill="#fff"/>
+    <circle cx="65" cy="38" r="2" fill="#fff"/>
+    <!-- Nariz -->
+    <circle cx="50" cy="55" r="5" fill="#2c3e50"/>
+    <!-- Boca -->
+    <path d="M45,60 Q50,65 55,60" fill="none" stroke="#2c3e50" stroke-width="2"/>
+    <!-- Orelhas -->
+    <circle cx="30" cy="25" r="10" fill="#2c3e50"/>
+    <circle cx="70" cy="25" r="10" fill="#2c3e50"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <!-- Rosto do Tigre -->
+  <circle cx="35" cy="40" r="5" fill="#fff"/>
+  <circle cx="65" cy="40" r="5" fill="#fff"/>
+  <circle cx="35" cy="40" r="2" fill="#000"/>
+  <circle cx="65" cy="40" r="2" fill="#000"/>
+  <!-- Nariz -->
+  <circle cx="50" cy="50" r="5" fill="#e74c3c"/>
+  <!-- Boca -->
+  <path d="M40,60 Q50,70 60,60" fill="none" stroke="#000" stroke-width="2"/>
+  <!-- Listras -->
+  <path d="M20,25 Q35,35 20,45" fill="none" stroke="#e67e22" stroke-width="3"/>
+  <path d="M80,25 Q65,35 80,45" fill="none" stroke="#e67e22" stroke-width="3"/>
+  <path d="M30,70 Q50,80 70,70" fill="none" stroke="#e67e22" stroke-width="3"/>
+  <!-- Orelhas -->
+  <path d="M25,25 Q30,10 40,20" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <path d="M75,25 Q70,10 60,20" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+</svg>
